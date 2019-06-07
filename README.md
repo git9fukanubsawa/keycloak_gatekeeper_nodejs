@@ -1,11 +1,11 @@
-## Keycloak Gatekeeper—pƒeƒXƒgƒAƒvƒŠ
+## Keycloak Gatekeeperç”¨ãƒ†ã‚¹ãƒˆã‚¢ãƒ—ãƒª
 
-node.js‚Å“®ì‚·‚éAhtml‚ğ•\¦‚·‚éƒTƒ“ƒvƒ‹ƒAƒvƒŠƒP[ƒVƒ‡ƒ“‚Å‚·B
+node.jsã§å‹•ä½œã™ã‚‹ã€htmlã‚’è¡¨ç¤ºã™ã‚‹ã‚µãƒ³ãƒ—ãƒ«ã‚¢ãƒ—ãƒªã‚±ãƒ¼ã‚·ãƒ§ãƒ³ã§ã™ã€‚
 
-¦•Ê“rnode.js‚ğƒCƒ“ƒXƒg[ƒ‹B
+â€»åˆ¥é€”node.jsã‚’ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ã€‚
 
-## g‚¢•û
+## ä½¿ã„æ–¹
 
-cmd‚ÅƒfƒBƒŒƒNƒgƒŠ‚ÉˆÚ“®‚µAynpm startz‚ÅƒAƒvƒŠ‚ğ‹N“®‚·‚éB
+cmdã§ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªã«ç§»å‹•ã—ã€ã€npm startã€‘ã§ã‚¢ãƒ—ãƒªã‚’èµ·å‹•ã™ã‚‹ã€‚
 
-http://localhost:5000/index.html‚ÅƒAƒNƒZƒX‚·‚éB
+http\://localhost:5000/index.htmlã§ã‚¢ã‚¯ã‚»ã‚¹ã™ã‚‹ã€‚
